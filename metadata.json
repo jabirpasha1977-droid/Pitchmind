@@ -1,0 +1,6 @@
+{
+  "name": "Touchline",
+  "description": "AI football coaching workbench with interactive tactical pitch drills, multimodal technique form analysis, personalized weekly training plans, and live coaching guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
